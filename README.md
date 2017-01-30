@@ -8,6 +8,5 @@ I am Sean Campbell. I am currently taking COS 420.
 
 Goodbye!
 
+
 THIS SHOULD CREATE A MERGE CONFLICT!!
-
-
